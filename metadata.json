@@ -1,0 +1,6 @@
+{
+  "name": "শান্ত সকালের গ্রামীণ দৃশ্য - Rural Morning Scene",
+  "description": "কুয়াশায় ঢাকা সবুজ মাঠ, লাল ছাদওয়ালা বাড়ি এবং আকাশে কমলা-গোলাপী সূর্যোদয়ের এক শান্ত ও নয়নাভিরাম গ্রামীণ দৃশ্যের ইন্টারেক্টিভ ডিজিটাল শিল্প ও ক্যানভাস।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
